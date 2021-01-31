@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the official website for the Gemini Simulator project. Originally founded by graduate students at NTNU Norway.
+The Gemini Simulator project aims to become a fully fledged simulator for testing and verifying algorithm and systems
+for autonomous vessels. This is done through emulation of EMR sensors (Electromagnetic radiation) such as 
+cameras, LiDAR and radar. Furthermore, we will provide an API designed to work with 
+[Open Simulation Platform](https://opensimulationplatform.com/) which can handle vessel physics and system emulation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
